@@ -1,5 +1,7 @@
-to whom i've left behind
-===
+---
+layout: page
+title: to whom i've left behind
+---
 
 i like you.
 and i miss you --probably every one of you--.
@@ -31,3 +33,4 @@ like a journal.
 perhaps that will let my overthinking mind to someday stop, breath and just reach out to you: "how are things?"
 
 that, i hope.
+

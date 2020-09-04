@@ -5,6 +5,4 @@
 layout: home
 ---
 
-# stuff i'm still trying to figure out
-
-[2020/09/03: a personal statement](journal/20200903_personal_statement.md)
+[a personal statement](2020-09-03-a-personal-statement.md)
