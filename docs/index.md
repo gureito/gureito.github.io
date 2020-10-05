@@ -6,3 +6,6 @@ layout: home
 ---
 
 [a personal statement](2020-09-03-a-personal-statement.md)
+
+
+[for auri](auri/)
