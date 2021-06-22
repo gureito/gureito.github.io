@@ -1,3 +1,8 @@
+---
+layout: page
+title: people of translations
+---
+
 "what is this ground?" from-jonah-of-the-kiln da-thumps in anxiousness.
 even though all of-the-kiln are near, the rustle of the tools against the brushes and their sweaty-earthy smell reassuring, they can discern just one other muffled step-talk.
 "why can i hear no one else?" from-jonah dada-thumps then turns to their closest companion, hoping to smell their identity, giving up on recognizing their gait.
