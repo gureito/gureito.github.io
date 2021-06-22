@@ -1,6 +1,4 @@
-mind the gap
-============
-
+```
 you say of things that behave in unexpected (unexplainable) ways that they are haunting (haunted).
 but to haunt is to occupy a place you are not supposed to be, to exist when you should not.
 a sense of uneasiness, the gap between the expected and the unexpected, the wanted and the scorned, the comforting and the scaring.
@@ -23,4 +21,5 @@ i can't haunt you.
 so, good tidings to you.
 someday, we will catch up.
 
-your unesteemed interlopers.
+    your unesteemed interlopers.
+```

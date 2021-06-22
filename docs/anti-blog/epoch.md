@@ -1,6 +1,4 @@
-epoch
-=====
-
+```
 disrupt
 we want the stars
 privilege steers science
@@ -12,3 +10,4 @@ they own water
 favours drive, names select,
 disdain doles power, walls contain
 they live
+```
