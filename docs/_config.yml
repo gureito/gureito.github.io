@@ -17,7 +17,7 @@ title: journaling to clear the space
 author: ferunando
 email: ferunando@gureito.info
 description: >- # this means to ignore newlines until "baseurl:"
-  semi-regular updates on (searching for) myself.
+  semi-(ir)regular updates on (searching for) myself.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gureito
