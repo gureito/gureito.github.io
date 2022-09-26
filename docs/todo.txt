@@ -1,0 +1,8 @@
+2022/09/24 what information i want to share in here
+2022/09/25 add a style for 'poetic' text that's not code...
+x 2022/09/24 change about page 
+x 2022/09/24 what categories i want in here
+x 2022/09/25 change the collab page to a more generic 'filter by' page...
+x 2022/09/25 fix landing page
+x 2022/09/25 fix the display of tags in posts 
+x 2022/09/25 make a way to say which license an specific text or art has @revisit

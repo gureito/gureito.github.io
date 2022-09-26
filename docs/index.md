@@ -1,12 +1,22 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
-[a personal statement](2020-09-03-a-personal-statement.md)
+```
+not here, i simulate stuff
+most of the time on my mind
+sometimes with code.
 
-[for auri](auri/) -- fiction for(/with) my nibling.
+a never ending search.
 
-[previously, at antilang](anti-blog/) -- pieces previously published at [antilang](https://www.antilang.ca/), from the time they used to monthly select submissions from patreon.
+in here, i share stuff
+to take from said mind
+little artifacts of myself.
+```
+
+[more personal stuff](journal)
+
+[for (with) Auri](auri/)
+
+[previously, at antilang](antilang/)
+

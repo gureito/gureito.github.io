@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: journaling to clear the space
-author: ferunando
-email: ferunando@gureito.info
+author: ferunande
+email: ferunande@gureito.info
 description: >- # this means to ignore newlines until "baseurl:"
   semi-(ir)regular updates on (searching for) myself.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -23,18 +23,26 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gureito
 github_username:  gureito
 
+show_excerpts: true
+permalink: :categories/:year-:month-:day-:title:output_ext
+minima:
+  date_format: "%Y/%m/%d"
 # Build settings
 #markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
 
+exclude:
+- editors
+- todo.txt
+- Gemfile
+- Gemfile.lock
+- CNAME
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:
-#   - Gemfile
-#   - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/

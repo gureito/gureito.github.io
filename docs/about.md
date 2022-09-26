@@ -1,15 +1,9 @@
 ---
 layout: page
 title: about
-permalink: /about/
 ---
 
-```
-not here, i simulate stuff.
-most of the time on my mind.
-sometimes, they become stories.
-sometimes, they become code.
+notes on the road of searching for myself.
+journal like, flash fiction, poetry, creative non-fiction, (someday) interactive stuff.
 
-in here, i search for myself.
-and try and tell you about it.
-```
+if it's small and i don't want to push to another venue, it will make its way here eventually.

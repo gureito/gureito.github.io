@@ -1,6 +1,8 @@
 ---
-layout: page
 title: mind the gap
+excerpt: to haunt is to occupy a place you are not supposed to be, to exist when you should not.
+category: non-fiction
+tags: fiction? antilang
 ---
 you say of things that behave in unexpected (unexplainable) ways that they are haunting (haunted).
 but to haunt is to occupy a place you are not supposed to be, to exist when you should not.

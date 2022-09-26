@@ -1,6 +1,8 @@
 ---
-layout: page
 title: people of translations
+excerpt: i am well mother. where are we?
+category: fiction
+tags: antilang
 ---
 
 "what is this ground?" from-jonah-of-the-kiln da-thumps in anxiousness.

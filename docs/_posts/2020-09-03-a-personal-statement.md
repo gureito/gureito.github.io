@@ -1,10 +1,13 @@
 ---
-layout: page
-title: to whom i've left behind
+title: a personal statement
+category: journal
+tags: confessional
+excerpt: i miss you --probably every one of you
 ---
+to whom i've left behind
 
 i like you.
-and i miss you --probably every one of you--.
+and i miss you --probably every one of you.
 
 it's just.
 i'm really bad at keeping in touch with people.

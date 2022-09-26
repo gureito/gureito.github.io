@@ -1,0 +1,31 @@
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+{%- if p.author -%}{%- assign author = p.author -%}{%- else -%}{%- assign author = site.author -%}{%- endif -%}
+<span class="post-meta">
+  <time class="dt-published" datetime="{{ p.date | date_to_xmlschema }}" itemprop="datePublished">{{ p.date | date:
+    date_format }}</time>
+  {%- if page.collection == 'posts' -%}
+  &nbsp;| words: <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
+      itemprop="name">{{ author | escape }}</span></span>
+  {%- endif -%} {%- if p.artists -%} &nbsp;| art:&nbsp;
+  {%- for artist in p.artists -%}
+  <span itemprop="artist" itemscope itemtype="http://schema.org/Person"><span class="p-artist h-card" itemprop="name"><a
+        href="/{{ artist | escape }}">{{ artist | escape }}</a></span></span>
+  {%- endfor -%}{%- endif -%}
+  {%- if p.collabs -%}
+  &nbsp;| in collab with:&nbsp;
+  {%- for collab in p.collabs -%}
+  &nbsp;<span itemprop="collab" itemscope itemtype="http://schema.org/Person"><span class="p-collab h-card"
+      itemprop="name">{{ collab | escape
+      }}</span></span>
+  {%- endfor -%}{%- endif -%}
+  {%- if p.categories != empty-%}&nbsp;| filled under:
+  {%- for cat in p.categories -%}
+  &nbsp;<a href="/{{ cat | escape }}">{{ cat | escape }}</a>
+  {%- endfor -%}
+  {%- endif -%}
+  {%- if p.tags != empty-%}&nbsp;|
+  {%- for tag in p.tags -%}
+  &nbsp;#{{ tag | escape }}
+  {%- endfor -%}
+  {%- endif -%}
+</span>
