@@ -4,7 +4,7 @@ title: changelog
 ---
 
 2022-09-27
-* new (old) poem
+* new (old) poem and flash
 * revised fiction page to include things tagged fiction as well
 * added a fiction link to landing page
 
