@@ -16,7 +16,9 @@ little artifacts of myself.
 
 [more personal stuff](journal)
 
-[for (with) Auri](auri/)
+[fictional writings](fiction)
 
-[previously, at antilang](antilang/)
+[for (with) Auri](Auri)
+
+[previously, at antilang](antilang)
 

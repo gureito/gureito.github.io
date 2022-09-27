@@ -3,6 +3,11 @@ layout: page
 title: changelog
 ---
 
+2022-09-27
+* new (old) poem
+* revised fiction page to include things tagged fiction as well
+* added a fiction link to landing page
+
 2022/09/25
 * category pages for journal, fiction, non-fiction, and poetry.
 * added license info on all posts.
