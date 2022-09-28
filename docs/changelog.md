@@ -2,6 +2,9 @@
 layout: page
 title: changelog
 ---
+2022-09-28
+* new (old) flash.
+* revised [about](/about)
 
 2022-09-27
 * new (old) poem and flash
