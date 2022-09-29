@@ -2,6 +2,8 @@
 title: ghosting mona
 category: fiction
 date: 2022-09-28 13:20 -0600
+tags: flash
+excerpt: wondering about the ontological consequences of ghosts still being people, mona keeps gliding to their meeting place.
 notes:
 - 1st draft 2015-02-15
 ---
