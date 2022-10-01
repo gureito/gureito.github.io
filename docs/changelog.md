@@ -2,6 +2,11 @@
 layout: page
 title: changelog
 ---
+2022-10-01
+* new journal and the accompanying two poems and one scan (of a poem?)
+* added page explaining studies
+* tagged studies as such
+
 2022-09-28
 * new (old) flash.
 * revised [about](/about)
