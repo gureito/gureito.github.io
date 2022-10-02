@@ -1,3 +1,6 @@
+2022/10/01 get the footer to link back to front page
+2022/10/01 insert category/tags --linked-- at the footer of a post
+2022/10/01 add links to listing pages to the menu, remove from the front
 2022/09/30 create a style for citation.
 2022/09/24 what information i want to share in here
 2022/09/25 add a style for 'poetic' text that's not code...
