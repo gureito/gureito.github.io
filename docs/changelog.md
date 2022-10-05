@@ -2,8 +2,12 @@
 layout: page
 title: changelog
 ---
+2022-10-05
+* new flash fiction
+
 2022-10-02
 * new fiction entry 
+
 2022-10-01
 * new journal and the accompanying two poems and one scan (of a poem?)
 * added page explaining studies
