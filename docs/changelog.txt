@@ -1,15 +1,14 @@
----
-layout: page
-title: changelog
----
+2022-10-07
+* new flash: `conforming`
+
 2022-10-05
-* new flash fiction
+* new flash: `unforgotten threshold`
 
 2022-10-02
-* new fiction entry 
+* new flash: `dal: researcher, stitcher`
 
 2022-10-01
-* new journal and the accompanying two poems and one scan (of a poem?)
+* new journal: `why release?`; the accompanying poems: `on why to write` and `don't praise me`; and one scan (of a poem?): `draw, focus, release`
 * added page explaining studies
 * tagged studies as such
 
