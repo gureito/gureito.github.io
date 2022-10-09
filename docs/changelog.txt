@@ -1,3 +1,6 @@
+2022-10-08
+* new (old) poetry: `october`
+
 2022-10-07
 * new flash: `conforming`
 
