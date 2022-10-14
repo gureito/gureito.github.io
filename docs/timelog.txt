@@ -9,3 +9,5 @@
 2022-10-07 1120 -0600, 2022-10-07 1200 -0600, reorganizing stuff, cleaning changelog, publishing.
 2022-10-08 19:00 -06:00, 2022-10-08 19:30 -06:00, revising poetry, publishing.
 2022-10-11 23:15 -06:00, 2022-10-12 00:30 -06:00, revising tanya's study, publishing.
+2022-10-13 13:00 -06:00, 30, revisiting poetry
+2022-10-13 23:00 -06:00, 30, revisiting and publishing `pieces together` 

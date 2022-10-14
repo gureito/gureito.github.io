@@ -1,3 +1,6 @@
+2022-10-13
+* new poetry: `pieces together`
+
 2022-10-12
 * new (old) fiction: `tanya hopes`
 
