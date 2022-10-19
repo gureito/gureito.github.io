@@ -1,3 +1,6 @@
+2022-10-19
+* new poetry: `plural`
+
 2022-10-14
 * new poetry: `solarpunk`
 
