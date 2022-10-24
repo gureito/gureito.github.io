@@ -25,6 +25,9 @@ github_username:  gureito
 
 show_excerpts: true
 permalink: :categories/:year-:month-:day-:title:output_ext
+header_pages:
+  - about.md
+
 minima:
   date_format: "%Y/%m/%d"
 # Build settings
@@ -38,6 +41,11 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - CNAME
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
