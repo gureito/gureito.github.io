@@ -1,3 +1,6 @@
+2022-10-25
+* nem fiction: `away to storm-grounds`
+
 2022-10-19
 * new poetry: `plural`
 
